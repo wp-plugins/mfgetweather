@@ -1,0 +1,30 @@
+========
+OPTIONS:
+========
+
+
+
+Currently, you can include these things in your list of options (in any order, too):
+
+	desc - description - either the default, or one you define
+	icon - display the weather icon
+	temp - temperature
+	forecast - text description of current conditions
+	curtime - current time (or last weather update time)
+	sunrise - sunrise for today
+	sunset - sunset for today
+	vis - visible distance
+	wind - wind speed
+	hum - humidity
+	dew - dew point
+	high - high temperature
+	low - low temperature
+	sunset-sunrise - sunset/rise as one item
+	high-low - High and low as one item
+	dayforecast - Dayforecast
+
+
+
+==========================================================
+MFGetweather Plugin for Wordpress / Author: Markus Frenzel
+==========================================================

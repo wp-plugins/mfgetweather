@@ -1,0 +1,23 @@
+=========
+AREACODE:
+=========
+
+
+
+You may use a US zip code or a standard city code. International users will have to use a standard city code.
+
+Finding Your City Ouside the U.S.
+
+   1. Go to the weather.com site (http://www.weather.com)
+   2. Search for your city. (Example: "quebec")
+   3. When you get to the page listing your current weather conditions, the url will look something like this: http://www.weather.com/outlook/travel/businesstraveler/local/CAXX0385?from=search_city
+   4. The "City Code" is the string after "local/" and before "?". (In this case, "CAXX0385")
+   5. You may use this code in place of a zip code when you live outside the U.S.
+
+Sometimes you won't find a city code for your city. Then just try the name of a bigger city near you! 
+
+
+
+==========================================================
+MFGetweather Plugin for Wordpress / Author: Markus Frenzel
+==========================================================

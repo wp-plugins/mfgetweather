@@ -1,0 +1,35 @@
+==========
+CHANGELOG:
+==========
+
+
+
+	1.0.0 - Original by Jeff Minard
+
+	1.2.0 - Added support for simple-cache ( cache_store() and cache_recall() )
+			to speed things up a bit.
+	      - Changed the hack for IE. Caching would detect one browser, and
+	      	cache the wrong version for everyone else. Now instead of an img tag,
+	      	the "img" is placed via background styles in a DIV that will work in
+	      	compliant browsers, and will also work with IE.
+	1.2.1 - A few simple changes
+	      - Added simple-cache.php to the package.
+
+        1.3.0 - Added multi-language support via PO- & MO-Files
+        1.3.1 - Timeformat of sunrise/sunset/current-time is now well formated
+
+        1.4.0 - Display the forecast with small images
+
+        1.5.0 - New directory structure
+        1.5.1 - Widget implemented
+        1.5.2 - Admin Panel implemented
+        1.5.3 - Added simple_cache plugin
+        1.5.4 - Added the "doc" directory
+
+        1.6.0 - Plugin completely rewritten (Code optimized)
+
+
+
+==========================================================
+MFGetweather Plugin for Wordpress / Author: Markus Frenzel
+==========================================================
